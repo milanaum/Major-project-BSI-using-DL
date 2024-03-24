@@ -12,7 +12,7 @@ To run app, write following command in CMD. or use any IDE.
 streamlit run Bird_Classification.py
 
 Dataset used
-
 https://www.kaggle.com/datasets/gpiosenka/100-bird-species
+
 ![image](https://github.com/milanaum/Major-project-BSI-using-DL/assets/97940333/396761d9-6165-49f2-9c61-56e94a18f2be)
 
