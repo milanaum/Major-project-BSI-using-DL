@@ -5,8 +5,12 @@ Bird_Classification.py is the main Python file of Streamlit Web-Application.
 
 birds-classification-using-tflearning.ipynb is the Notebook file of the Training
 
-Dataset that I have used is 275 Bird Species.
+Dataset that I have used is 525 Bird Species.
 
 To run app, write following command in CMD. or use any IDE.
 
 streamlit run Bird_Classification.py
+
+Dataset used
+
+https://www.kaggle.com/datasets/gpiosenka/100-bird-species
