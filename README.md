@@ -14,4 +14,5 @@ streamlit run Bird_Classification.py
 Dataset used
 
 https://www.kaggle.com/datasets/gpiosenka/100-bird-species
-![image](https://github.com/milanaum/Major-project-BSI-using-DL/assets/97940333/97136d56-e082-4a65-a97f-b0be5d66a4db)
+![image](https://github.com/milanaum/Major-project-BSI-using-DL/assets/97940333/396761d9-6165-49f2-9c61-56e94a18f2be)
+
